@@ -1,7 +1,7 @@
 # 贡献者指南
 
 ## 我想成为代码贡献者！
-We welcome pull requests from Free Code Camp campers (our students) and seasoned JavaScript developers alike! Follow these steps to contribute:
+We welcome PRs from Free Code Camp campers (our students) and seasoned JavaScript developers alike! Follow these steps to contribute:
 
 我们欢迎每一位 FreeCodeCamp学员 和 有经验的JavaScript开发人员向我们提交PR！请参照下面这些步骤参与进来：
 
